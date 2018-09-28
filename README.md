@@ -1,10 +1,6 @@
-# Stage 3
+# Angular overview
 
-Use API with blog posts. Before to start `docker-compose up`, copy `data/posts.json` to `data/db.json` to let "json-server" be able to touch it. You may adapt `posts.json` and copy again the file to `db.json` afterward.
+This repository is only a simple application in serveral stages (see branches) to present Angular 6.
 
-In that stage, we're using:
-
-- httpClientModule and httpClient
-- a `service` and `environment` to get api url
-- ngBootstrap to have bootstrap directives
+You may now go to stage1 branch using `git checkout -f stage1`
 
