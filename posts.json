@@ -1,0 +1,6 @@
+{
+    "posts": [
+        {"id": 1, "title":"jQuery is bad", "body":"<h2>Avoiding Spaghetti code</h2><p>Throw some code and it will work, but are you going to be a better developer if you do that ? of course not. Imperative programming with jquery is really the worst thing I've ever experienced even if I made things work. It's hard to read some spaghetti code after one month of writing it.</p><p>So are you someone who cares about performance(and even if jQuery isn't that heavy) and who wants to develop his knowledge in programming in js, stop using jQuery.</p>", "author": "God"},
+        {"id": 2, "title": "No, jQuery is good", "body" : "<h2>jQuery is better</h2><p>If you’re in the web development world, you probably have heard of React. I mean maybe you don’t even know what it is, but you know it’s like super cool and sexy.</p><p>And jQuery is the polar opposite. Everyone likes to hate jQuery these days. I had one of those stupid “take home tests” trendy tech companies use for hiring these days and it said I could use literally anything except jQuery.</p><p>Which is just so typical of the industry. And 5% is because of jQuery performance or architecture issues, and 95% is snobbery.</p></p>And that snobbery is wrong, because jQuery is better than React.</p>", "author": "Satan"}
+    ]
+}
