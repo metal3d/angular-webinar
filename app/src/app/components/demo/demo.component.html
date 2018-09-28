@@ -1,0 +1,8 @@
+<h2>User inputs</h2>
+<div>
+  <input type="text" name="firstname" [(ngModel)]="user.firstname" placeholder="First Name" />
+  <input type="text" name="lastname" [(ngModel)]="user.lastname" placeholder="Last name" />
+</div>
+
+<h2>Debug user object</h2>
+<pre>{{ user | json }}</pre>
